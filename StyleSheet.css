@@ -79,10 +79,11 @@ text-align: center;
 }
 
 .resize {
-  max-width:200px;
-  max-height:auto;
-  flex: 1;
-  flex-shrink: 3;
+  align-items: center;
+  max-width: 60%;
+  justify-content: center;
+  margin-left: 20%;
+  margin-right: auto;
 
 
 }
